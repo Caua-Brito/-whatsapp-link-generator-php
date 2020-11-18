@@ -1,2 +1,1 @@
-# -whatsapp-link-generator-php
-Simples link gerenator
+# whatsapp-link-generator-php
